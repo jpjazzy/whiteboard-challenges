@@ -15,3 +15,11 @@ const twoHighest = function (arr){
   highestVals.secondHighest = arr[arr.length-2]; //place second highest val
   return highestVals; //return the object with the values
 }
+
+//Tests
+console.log(twoHighest([1, 7, 2, 3, 6, 9]));
+console.log(twoHighest([1, 3, 'a']));
+console.log(twoHighest('a'));
+console.log(twoHighest([-2, 3, -1, 39]));
+console.log(twoHighest([2.932, 3.032, 6.304, 4.034]));
+console.log(twoHighest([1]));
