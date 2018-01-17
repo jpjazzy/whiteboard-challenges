@@ -1,0 +1,20 @@
+{
+  "name": "whiteboarding-challenge-03",
+  "version": "1.0.0",
+  "description": "whiteboarding challenge 03",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "train",
+    "count",
+    "cars",
+    "values"
+  ],
+  "author": "Jeremy",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.2"
+  }
+}
