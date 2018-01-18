@@ -1,0 +1,24 @@
+{
+  "name": "whiteboarding-challenge-04",
+  "version": "1.0.0",
+  "description": "Whiteboard challenge 04 for finding intersection array",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "intersection",
+    "array",
+    "whiteboard",
+    "jest",
+    "test"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.3"
+  }
+}
