@@ -1,0 +1,23 @@
+{
+  "name": "whiteboarding-challenge-06",
+  "version": "1.0.0",
+  "description": "recursive whiteboard test jest",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "recursive",
+    "whiteboard",
+    "test",
+    "jest"
+  ],
+  "author": "Jeremy",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
