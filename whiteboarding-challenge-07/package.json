@@ -1,7 +1,7 @@
 {
-  "name": "whiteboarding-challenge-04",
+  "name": "whiteboarding-challenge-07",
   "version": "1.0.0",
-  "description": "Whiteboard challenge 04 for finding intersection array",
+  "description": "whiteboard challenge 07 circular linked list check jest test",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,16 +10,19 @@
     "test": "jest"
   },
   "keywords": [
-    "intersection",
-    "array",
     "whiteboard",
+    "challenge",
+    "07",
+    "circular",
+    "linked",
+    "list",
+    "check",
     "jest",
     "test"
   ],
   "author": "Jeremy Pearson",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^22.1.3"
-  },
-  "dependencies": {}
+    "jest": "^22.1.4"
+  }
 }
