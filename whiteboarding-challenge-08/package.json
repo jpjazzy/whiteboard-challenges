@@ -1,0 +1,29 @@
+{
+  "name": "whiteboarding-challenge-08",
+  "version": "1.0.0",
+  "description": "WHITEBOARD CHALLENGE 08 INTERSECTING NODE LINKED LIST TEST JEST",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "WHITEBOARD",
+    "CHALLENGE",
+    "08",
+    "INTERSECTING",
+    "NODE",
+    "LINKED",
+    "LIST",
+    "TEST",
+    "JEST"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT"
+}
