@@ -1,0 +1,25 @@
+{
+  "name": "whiteboarding-challenge-09",
+  "version": "1.0.0",
+  "description": "node n from end test jest",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "n",
+    "from",
+    "end",
+    "test",
+    "jest"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
