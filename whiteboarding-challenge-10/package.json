@@ -1,0 +1,27 @@
+{
+  "name": "whiteboarding-challenge-10",
+  "version": "1.0.0",
+  "description": "check curly braces binary search half test jest",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "check",
+    "curly",
+    "braces",
+    "binary",
+    "search",
+    "half",
+    "test",
+    "jest"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
