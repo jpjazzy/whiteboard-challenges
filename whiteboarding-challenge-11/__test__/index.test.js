@@ -1,8 +1,8 @@
 'use strict';
 
 
-const whiteboardFn = require('../index')
-require('jest')
+const whiteboardFn = require('../index');
+require('jest');
 
 
 describe('#null Case ', function() {
