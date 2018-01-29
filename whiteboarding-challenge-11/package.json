@@ -1,0 +1,26 @@
+{
+  "name": "whiteboarding-challenge-11",
+  "version": "1.0.0",
+  "description": "find the missing number jest test",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "find",
+    "the",
+    "missing",
+    "number",
+    "jest",
+    "test"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "jest": "^22.1.4"
+  }
+}
