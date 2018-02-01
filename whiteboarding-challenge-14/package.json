@@ -1,0 +1,26 @@
+{
+  "name": "whiteboarding-challenge-14",
+  "version": "1.0.0",
+  "description": "dedupe duplicate remove node linked list stack",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "dedupe",
+    "duplicate",
+    "remove",
+    "node",
+    "linked",
+    "list",
+    "stack"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
