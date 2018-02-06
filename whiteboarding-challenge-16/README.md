@@ -5,7 +5,7 @@ _Version_: 1.0.0
 
 _Libraries_: jest
 
-_Last modified_: 2/2/2018
+_Last modified_: 2/6/2018
 
 # Function use
 
@@ -15,16 +15,16 @@ _Last modified_: 2/2/2018
 _Brief description_
 
 ## Challenge functions
-[ARRAY WITH ENDING NODES NOT LINKED TO ANYTHING] = whiteboardFn.findLeafs([kary-tree OBJECT])
+[RESULTING SUM] = whiteboardFn.calcSUm([kary-tree root OBJECT])
 
-_Insert a new kary tree object into the given function to get an array of ending leaf nodes_
+_Insert a new kary tree object into the given function to get the resulting sum of all its nodes_
 
 # Challenge Readme (SPECS)
 
-Whiteboard Challenge 15
+Whiteboard Challenge 17
 Complete today's whiteboard challenge and follow the submission instructions below:
 
-Write a function that accepts the root of a tree as it's argument, and returns an array of nodes, if any, which have no children.
+Write a function that accepts a Tree and returns the total sum of all the elements in the tree. - You are to assume that each node will have a val property which has a numeric value. - Any other data points, aside from children are irrelevant.
 
 Whiteboard Challenge Submission Instructions
 Root Repository Configuration
@@ -47,4 +47,4 @@ Make a new branch and folder in your whiteboard challenge repository on Github. 
 Complete the whiteboard challenge in your text editor, and verify that it's functional.
 Include at least three unit tests for each function that you write for your solution.
 Make a pull request from your working branch to your master branch.
-Submit a link to your PR on Canvas
+Submit a link to your PR on Canvas.
