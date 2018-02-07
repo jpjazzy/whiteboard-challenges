@@ -1,0 +1,30 @@
+{
+  "name": "whiteboarding-challenge-18",
+  "version": "1.0.0",
+  "description": "whiteboarding challenge to find the max children on all nodes in kary tree jest test",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest -i"
+  },
+  "keywords": [
+    "whiteboarding",
+    "challenge",
+    "sum",
+    "all",
+    "values",
+    "in",
+    "a",
+    "kary",
+    "tree",
+    "jest",
+    "test"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
