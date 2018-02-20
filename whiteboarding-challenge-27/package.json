@@ -1,0 +1,26 @@
+{
+  "name": "whiteboarding-challenge-27",
+  "version": "1.0.0",
+  "description": "rotate 2d array 90 degrees test jest",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "rotate",
+    "2d",
+    "array",
+    "90",
+    "degrees",
+    "test",
+    "jest"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.0"
+  }
+}
