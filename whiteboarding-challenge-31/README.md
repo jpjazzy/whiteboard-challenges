@@ -15,8 +15,9 @@ _Last modified_: 2/26/2018
 _Brief description_
 
 ## Challenge functions
+[OUTPUT INTERSECTION ARRAY] = intersection.find(Array1, Array2)
 
-
+_Outputs a resulting intersecting array (no duplicates)_
 
 # Challenge Readme (SPECS)
 
