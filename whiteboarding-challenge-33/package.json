@@ -1,0 +1,24 @@
+{
+  "name": "whiteboarding-challenge-33",
+  "version": "1.0.0",
+  "description": "count exponent result jest test",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest -i"
+  },
+  "keywords": [
+    "count",
+    "exponent",
+    "result",
+    "jest",
+    "test"
+  ],
+  "author": "Jeremy Pearson",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
