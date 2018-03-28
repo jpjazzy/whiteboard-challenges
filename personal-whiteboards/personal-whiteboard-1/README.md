@@ -5,7 +5,7 @@ _Version_: 1.0.0
 
 _Libraries_: jest
 
-_Last modified_: 
+_Last modified_: 3/27/2018
 
 # Function use
 
@@ -15,5 +15,7 @@ _Last modified_:
 _Brief description_
 
 ## Challenge functions
+
+
 
 # Challenge Readme (SPECS)
